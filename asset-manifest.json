@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-arjun/static/css/main.0d751b55.chunk.css",
-    "main.js": "/portfolio-arjun/static/js/main.87017bb0.chunk.js",
-    "main.js.map": "/portfolio-arjun/static/js/main.87017bb0.chunk.js.map",
-    "runtime-main.js": "/portfolio-arjun/static/js/runtime-main.fbaae7d6.js",
-    "runtime-main.js.map": "/portfolio-arjun/static/js/runtime-main.fbaae7d6.js.map",
-    "static/js/2.b3c9ac36.chunk.js": "/portfolio-arjun/static/js/2.b3c9ac36.chunk.js",
-    "static/js/2.b3c9ac36.chunk.js.map": "/portfolio-arjun/static/js/2.b3c9ac36.chunk.js.map",
-    "index.html": "/portfolio-arjun/index.html",
-    "static/css/main.0d751b55.chunk.css.map": "/portfolio-arjun/static/css/main.0d751b55.chunk.css.map",
-    "static/js/2.b3c9ac36.chunk.js.LICENSE.txt": "/portfolio-arjun/static/js/2.b3c9ac36.chunk.js.LICENSE.txt"
+    "main.css": "/Portfolio-Arjun/static/css/main.0d751b55.chunk.css",
+    "main.js": "/Portfolio-Arjun/static/js/main.87017bb0.chunk.js",
+    "main.js.map": "/Portfolio-Arjun/static/js/main.87017bb0.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Arjun/static/js/runtime-main.95733f64.js",
+    "runtime-main.js.map": "/Portfolio-Arjun/static/js/runtime-main.95733f64.js.map",
+    "static/js/2.b3c9ac36.chunk.js": "/Portfolio-Arjun/static/js/2.b3c9ac36.chunk.js",
+    "static/js/2.b3c9ac36.chunk.js.map": "/Portfolio-Arjun/static/js/2.b3c9ac36.chunk.js.map",
+    "index.html": "/Portfolio-Arjun/index.html",
+    "static/css/main.0d751b55.chunk.css.map": "/Portfolio-Arjun/static/css/main.0d751b55.chunk.css.map",
+    "static/js/2.b3c9ac36.chunk.js.LICENSE.txt": "/Portfolio-Arjun/static/js/2.b3c9ac36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fbaae7d6.js",
+    "static/js/runtime-main.95733f64.js",
     "static/js/2.b3c9ac36.chunk.js",
     "static/css/main.0d751b55.chunk.css",
     "static/js/main.87017bb0.chunk.js"
